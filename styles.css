@@ -3,7 +3,7 @@ MARGIN:0PX;
 text-align: center;}
 H2{margin:0 AUTO 0 AUTO;}
 H1{font-size:300%;font-family:'MuseoModerno', FANTASY;}
-.BLOCKS{height: 40PX;background-color:RED;
+.BLOCKS{height: 2.4992em;background-color:RED;
   border-style: groove;
   border-width:3PX 3PX 10PX 10PX;
 border-color:#ca5fa6;}
